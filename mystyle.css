@@ -44,5 +44,6 @@ margin-top: 200px;
 display: block;
 width: 100px;
 height: 100px;
-float: right;
+margin-left: 700px;
+float: left;
 }
